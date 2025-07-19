@@ -1,6 +1,7 @@
 
    ### Olá, bem vindo ao meu perfil !!  💻 ☘
-   ##
+   ## Sobre Mim
+   🎓
  <br>
 <a href="https://github.com/bc-fabio/github-readme-stats">
   <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=bc-fabio&show_icons=true&theme=transparent" />

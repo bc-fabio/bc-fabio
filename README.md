@@ -18,7 +18,10 @@
    <img align="center" alt="Fabio-Js" height="47" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabio-HTML" height="47" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="47" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fabio-CSS" height="47" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img align="center" alt="Fabio-CSS" height="47" width="42" src="github.svg">
 </div><br>
+
   
  <h2> 📚 Estudando atualmente </h2> 
 

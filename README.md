@@ -6,13 +6,13 @@
 <p>Me chamo Fábio Lima e sou natural do Ceará. Concluí o ensino médio em uma escola profissionalizante, com o curso técnico em informática. Atualmente estou cursando Ciência da Computação na Universidade Federal de Mato Grosso  - UFMT. Gosto muito de tecnologia e desde então sigo estudando diariamente com o objetivo de construir um conhecimento e desenvolver habilidades necessárias para o mundo da programação.</p>
 <img align="right" height="140" alt="coding-time" src="programador.gif">
 <br>
- <a href="" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/fabiolimadesenvolvedor" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:devfabiolima@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <br><br><br><br><br>
- <h2> 🤖 Linguagens e Tecnologias                                           atualmente </h2>
+ <h2> 🤖 Linguagens e Tecnologias</h2>
 
 <div style="display: inline_block">
    <img align="center" alt="Fabio-Js" height="47" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

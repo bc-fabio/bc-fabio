@@ -8,7 +8,7 @@
 <br>
  <a href="https://www.linkedin.com/in/fabiolimadesenvolvedor" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "devfabiolima@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="" target="_blank"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/V4wjXatf" target="_blank"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <br><br><br><br><br>
  <h2> 🤖 Linguagens e Tecnologias</h2>

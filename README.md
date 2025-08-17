@@ -4,25 +4,23 @@ Me chamo Fábio Lima e sou natural do Ceará. Concluí o ensino médio em uma es
 <br><br>
 
 ---
-
- **🤖 Linguagens e Tecnologias**
-
-<div style="display: inline_block">
-   <img align="center" alt="Fabio-Js" height="43" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabio-HTML" height="43" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabio-CSS" height="43" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabio-CSS" height="43" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- <img align="center" alt="Fabio-CSS" height="43" width="35" src="github.svg">
+<br><br>
+<div style=" display: grid align="center">
+   <img  alt="Fabio-Js" height="43" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Fabio-HTML" height="43" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Fabio-CSS" height="43" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  alt="Fabio-CSS" height="43" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img  alt="Fabio-CSS" height="43" width="35" src="github.svg">
 </div><br>
 
   
- **📚 Estudando atualmente**
+ <h2> Estudando atualmente</h2>
 
 <div style="display:block">
  <img align="center" alt="Fabio-Java" height="91" width="58"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
  <img align="center" alt="Fabio-Java" height="71" width="38"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
- <br>
+ <br><br><br>
 
   **📊 Estastísticas**
   

@@ -4,7 +4,7 @@
 🎓 Estudante de Ciência da Computação - UFMT <br>
 🎮 Gosto de Jogos, Músicas, Flmes, Séries, Mangás e Animes <br>
 📖 Estudando sempre em busca de evolução
-<br><br>
+<br><br><br>
 
 ---
 <br>
